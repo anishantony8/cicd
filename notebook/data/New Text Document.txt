@@ -1,0 +1,11 @@
+data = CustomData(
+            Age=request.form.get('Age'),
+            Diabetes=request.form.get('Diabetes'),
+            BloodPressureProblems=request.form.get('BloodPressureProblems'),
+            AnyTransplants=request.form.get('AnyTransplants'),
+            AnyChronicDiseases=request.form.get('AnyChronicDiseases'),
+            Height=request.form.get('Height'),
+            Weight=request.form.get('Weight'),
+            KnownAllergies=request.form.get('KnownAllergies'),
+            HistoryOfCancerInFamily=request.form.get('HistoryOfCancerInFamily'),
+            NumberOfMajorSurgeries=request.form.get('NumberOfMajorSurgeries'))
