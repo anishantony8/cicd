@@ -1,1 +1,0 @@
-826916018149.dkr.ecr.us-east-1.amazonaws.com/insurance
